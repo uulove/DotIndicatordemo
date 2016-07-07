@@ -1,0 +1,2 @@
+# DotIndicatordemo
+这是一个viewPager的原点指示器
